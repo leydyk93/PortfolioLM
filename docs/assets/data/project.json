@@ -1,0 +1,59 @@
+{
+    "id": "9",
+    "title": "Tracking Chicamocha",
+    "description": "Aplicación móvil para el seguimiento de los atletas por parte de los usuarios",
+    "activities": [
+        {
+            "name": "Definicion de la Arquitectura de la aplicación"
+        }, 
+        {
+            "name": "Conexión con sockets"
+        }, 
+        {
+            "name": "Construccion de la solución"
+        } 
+    ],
+    "resumen": "La aplicación permite conocer información de los atletas durante la carrera, los usuarios pueden seguir a su atleta favoritos, conocer su ubicacion exacta asi como la fecha y hora en la cual paso por determinado punto de control",
+    "methodology": "SCRUM",
+    "status": "No activo",
+    "type": "Privado",
+    "date": "2018",
+    "role": "Analista y Desarrollador",
+    "imgs": {
+                "principal": "assets/img/projects/large-default.jpeg",
+                "cover": "assets/img/projects/large-default.jpeg",
+                "others": [
+                    {
+                        "img": "assets/img/projects/large-default.jpeg",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/large-default.jpeg",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/large-default.jpeg",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    }, 
+                    {
+                        "img": "assets/img/projects/large-default.jpeg",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/large-default.jpeg",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    }
+                ]
+    },
+    "url": ""
+}  

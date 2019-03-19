@@ -1,0 +1,536 @@
+{
+    "proy-1" : {
+        "id": "0",
+        "title": "Convenios UNET",
+        "description": "Sistema para el control y registro de los convenios inter-Institucionales de la UNET",
+        "activities": [
+            {
+                "name": "Levantamiento de información"
+            },
+            {
+                "name": "Análisis e identificación de requisitos"
+            },
+            {
+                "name": "Construcción de Wireframes"
+            },
+            {
+                "name": "Diseño y modelado de la base de Datos"
+            },
+            {
+                "name": "División de la aplicación en módulos"
+            },
+            {
+                "name": "Construcción y propuesta de la solución"
+            },
+            {
+                "name": "Pruebas"
+            }
+        ],
+        "resumen": "El sistema tiene como propósito facilitar la gestión, control y seguimiento de los convenios que mantiene la  universidad Nacional Experimental del Táchira con diversas instituciones, adaptandose a las normas y procedimientos definidas por la universidad",
+        "methodology": "SCRUM",
+        "status": "En actualización por parte del equipo de desarrollo de la UNET",
+        "type": "Privado",
+        "date": "2015",
+        "role": "Analista y desarrollador",
+        "imgs": {
+            "principal": "assets/img/projects/unet/alertas.PNG",
+            "cover": "assets/img/projects/unet/buscador.PNG",
+            "others": [
+                {
+                    "img": "assets/img/projects/unet/Home.PNG",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                },
+                {
+                    "img": "assets/img/projects/unet/buscador.PNG",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                },
+                {
+                    "img": "assets/img/projects/unet/admin.PNG",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                },
+                {
+                    "img": "assets/img/projects/unet/reportes.PNG",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                },
+                {
+                    "img": "assets/img/projects/unet/administrador2.PNG",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                }
+            ]
+        },
+        "url": ""
+    },
+    "proy-2" :{
+        "id": 1,
+        "title": "Virtual The Biz Nation",
+        "description": "Aplicación para el aprendizaje virtual a través de cursos creados por la empresa The Biznation",
+        "activities": [
+            {
+                "name": "Implementación del Home de la aplicación"
+            },
+            {
+                "name": "Análisis y modificación en el flujo de procesos"
+            },
+            {
+                "name": "Apoyo al equipo FrontEnd"
+            },
+            {
+                "name": "Conexiones con API externas entre ellas Zoho CRM"
+            },
+            {
+                "name": "Pruebas de integración"
+            }
+        ],
+        "resumen": "Virtual es una aplicación que satisface las necesidades del negocio de la empresa de The Biznation, ofreciendole a sus usuarios un espacio para aprender en linea con diversos cursos creados por las propias hermanas Carvajalino o empresas asociadas a ellas. la solución se desarrolló en conjunto con la empresa Kinetics Solutions",
+        "methodology": "SCRUM",
+        "status": "Activo",
+        "type": "Privado",
+        "date": "2017",
+        "role": "Analista y desarrollador FrontEnd",
+        "imgs": {
+            "principal": "assets/img/projects/virtual/principal.PNG",
+            "cover": "assets/img/projects/virtual/cover.PNG",
+            "others": [
+                {
+                    "img": "assets/img/projects/virtual/V1.PNG",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                },
+                {
+                    "img": "assets/img/projects/virtual/V2.PNG",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                },
+                {
+                    "img": "assets/img/projects/virtual/V3.PNG",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                }
+            ]
+        },
+        "url": "https://virtual.thebiznation.com/"
+    }, 
+    "proy-3" :{
+        "id": "2",
+        "title": "Instructor The Biz Nation",
+        "description": "Plataforma de la empresa The Biz Nation para gestionar los cursos de sus instructores",
+        "activities": [
+            {
+                "name": "Levantamiento de información"
+            },
+            {
+                "name": "Análisis y evaluación en el flujo de procesos"
+            },
+            {
+                "name": "Creacion de Wireframes"
+            },
+            {
+                "name": "Participación en el equipo FrontEnd y Backend durante la etapa de construcción"
+            },
+            {
+                "name": "Conexiones con API Zoho CRM"
+            },
+            {
+                "name": "Pruebas"
+            }
+        ],
+        "resumen": "Es una solución personalizada que se ajusta a las reglas del negocio estabecidas por The Biz Nation para la gestión de los cursos que ofrecen sus instructores, la plataforma se desarrollo en conjunto con la empresa Kinetics Solutions ",
+        "methodology": "SCRUM",
+        "status": "En desarrollo",
+        "type": "Privado",
+        "idcompany": "3",
+        "date": "2017 - 2018",
+        "role": "Analista y desarrollador Web",
+        "imgs": {
+            "principal": "assets/img/projects/instructor/cover.PNG",
+            "cover": "assets/img/projects/instructor/principal.PNG",
+            "others": [
+                {
+                    "img": "assets/img/projects/instructor/dashboard.jpg",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                },
+                {
+                    "img": "assets/img/projects/instructor/crear.PNG",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                },
+                {
+                    "img": "assets/img/projects/instructor/miscursos.jpg",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                }
+            ]
+        },
+        "url": "http://instructor.thebiznation.com/"
+    }, 
+    "proy-4" :{
+        "id": "3",
+        "title": "Nemobile E-Learning",
+        "description": "Es una alternativa para las empresas de tipo E-learning en busca de una plataforma para gestionar toda su información",
+        "activities": [
+            {
+                "name": "Análisis y evaluación en el flujo de procesos de la aplicación"
+            },
+            {
+                "name": "Apoyo al equipo FrontEnd"
+            },
+            {
+                "name": "Diseño y especificación de la estructura para cambios en la API"
+            },
+            {
+                "name": "Conexiones con API Zoho CRM"
+            }
+        ],
+        "resumen": "La plataforma forma parte de la suit de herramientas que ofrece Nemobile, la finalidad de esta herramienta es ofrecer una solución genérica que cubra las necesidades más comunes de las empresas con enfoque en Sistema de gestión de contenidos de aprendizaje (LCMS) o Sistema de gestión de Aprendizaje (LMS). ",
+        "methodology": "SCRUM",
+        "status": "En desarrollo por parte del equipo Nemobile",
+        "type": "Privado",
+        "date": "2018",
+        "role": "Analista y desarrollador",
+        "imgs": {
+            "principal": "",
+            "cover": "",
+            "others": []
+        },
+        "url": ""
+    },
+    "proy-5" : {
+        "id": "4",
+        "title": "Extenet Monitoring",
+        "description": "Aplicación para monitoreo y seguimiento",
+        "activities": [
+            {
+                "name": "Análisis y evaluación de las necesidades de la aplicación"
+            },
+            {
+                "name": "Apoyo en la creación de los Wireframes"
+            },
+            {
+                "name": "Apoyo al equipo FrontEnd y backend"
+            },
+            {
+                "name": "Diseño y especificación de la estructura de la API"
+            }
+            
+        ],
+        "resumen": "La aplicación tiene como ojetivo monitoriar y hacer seguimiento a algunas caracteristicas de los equipos de la empresa Extenet. El proyecto se desarrollo teniendo como consultora la empresa Kinetics Solutions",
+        "methodology": "SCRUM",
+        "status": "Activo",
+        "type": "Privado",
+        "date": "2018",
+        "role": "Consultor, Analista y desarrollador",
+        "imgs": {
+            "principal": "assets/img/projects/extenet/cover.PNG",
+            "cover": "assets/img/projects/extenet/principal.PNG",
+            "others": [
+                {
+                    "img": "assets/img/projects/extenet/dashboard2.PNG",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                },
+                {
+                    "img": "assets/img/projects/extenet/licenseInformation.PNG",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                },
+                {
+                    "img": "assets/img/projects/extenet/status.PNG",
+                    "name": "Home de la aplicacion",
+                    "descripcion": "",
+                    "alt": ""
+                }
+            ]
+        },
+        "url": ""
+    }, 
+    "proy-6" :{
+        "id": "5",
+        "title": "Real Estate Admin REM",
+        "description": "Aplicación para gestionar la información de la inmobiliaria Sky Group",
+        "activities": [
+            {
+                "name": "Actualización de algunos features de acuerdo a cambios en el flujo de procesos de la empresa"
+            },
+            {
+                "name": "Consumo de API"
+            }
+            
+        ],
+        "resumen": "Aplicación para gestionar la información de inmuebles, contactos, agentes y franquicias de la empresa Sky Group. La solución se implemento teniendo como empresa consutora Nepuntobiz",
+        "methodology": "SCRUM",
+        "status": "Activo",
+        "type": "Privado",
+        "date": "2018",
+        "role": "Desarrollador FrontEnd",
+        "imgs": {
+            "principal": "",
+                "cover": "",
+                "others": [
+                 
+                ]
+        },
+        "url": ""
+    }, 
+    "proy-7" :{
+        "id": "6",
+        "title": "Real Estate Sky Group",
+        "description": "Aplicación orientada a clientes en busca de inmuebles para su compra o alquiler",
+        "activities": [
+            {
+                "name": "Levantamiento y análisis de la información"
+            },
+            {
+                "name": "Identificación de requisitos, elaboración de Casos de Uso"
+            },
+            {
+                "name": "Diseño y especificación de la estructura para cambios en la API"
+            },
+            {
+                "name": "Construcción de Wireframes"
+            }, 
+            {
+                "name": "Implementación de la propuesta"
+            }
+            
+        ],
+        "resumen": "Este proyecto fue una propuesta para la empresa Sky Group, cuyo objetivo principal era la sincronización directa con la herramienta que utiliza la empresa para gestionar sus productos y clientes. La aplicación cuenta con funcionalidades que permiten la búsqueda de inmuebles por diferentes criterios, así como, funcionalidades para aquellos usuarios interesados en vender o alquilar sus propiedades.",
+        "methodology": "FDD",
+        "status": "No Activo",
+        "type": "Privado",
+        "date": "2017",
+        "role": "Consultor, Analista y Desarrollador",
+        "imgs": {
+                "principal": "assets/img/projects/skygroup/principal.png",
+                "cover": "assets/img/projects/skygroup/cover.png",
+                "others": [
+                    {
+                        "img": "assets/img/projects/skygroup/SK1.png",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/skygroup/SK2.png",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/skygroup/SK3.png",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/skygroup/SK4.png",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/skygroup/SK5.png",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/skygroup/SK6.png",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/skygroup/SK7.png",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/skygroup/SK8.png",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/skygroup/SK9.png",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    }
+                ]
+        },
+        "url": ""
+    }, 
+    "proy-8" :{
+        "id": "7",
+        "title": "Chicamocha cayon Rice",
+        "description": "Aplicación Corporativa",
+        "activities": [
+            {
+                "name": "Actualizacion del Site para las competencias de año 2018 y 2019"
+            }, 
+            {
+                "name": "cambios visuales"
+            },
+            {
+                "name": "Optimizaciones a nivel de codigo"
+            } 
+        ],
+        "resumen": "Es una aplicación para visualizar toda la informacion relacionada a las competencias, resultados, actividades y anuncios de la empresa Chicamocha Cayon Rice",
+        "methodology": "SCRUM",
+        "status": "Activo",
+        "type": "Privado",
+        "date": "2018 - 2019",
+        "role": "Analista y Desarrollador FrontEnd",
+        "imgs": {
+            "principal": "assets/img/projects/chicamocha/cover.PNG",
+                "cover": "assets/img/projects/chicamocha/principal.PNG",
+                "others": [
+                    {
+                        "img": "assets/img/projects/chicamocha/information.PNG",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/chicamocha/table.PNG",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    }
+                ]
+        },
+        "url": "http://www.chicamochacanyonrace.com/"
+    }, 
+    "proy-9" :{
+        "id": "8",
+        "title": "Juez Chicamocha",
+        "description": "Aplicación móvil para el control de los corredores en la compotencia",
+        "activities": [
+            {
+                "name": "Definición de la Arquitectura de la aplicación"
+            }, 
+            {
+                "name": "Conexión con sockets"
+            }, 
+            {
+                "name": "Construcción de la solución"
+            } 
+        ],
+        "resumen": "La aplicación le permite a los jueces de la carrera registrar los altletas una vez que pasan por determinado punto de control, también se registran eventualidades, retiros e incidentes que surjan durante la carrera, generando de esta forma la información necesaria para realizar seguimiento.",
+        "methodologies": "SCRUM",
+        "status": "No activo",
+        "type": "Privado",
+        "date": "2018",
+        "role": "Analista y Desarrollador",
+        "imgs": {
+            "principal": "assets/img/projects/juez/cover.PNG",
+                "cover": "assets/img/projects/juez/principal.PNG",
+                "others": [
+                    {
+                        "img": "assets/img/projects/juez/juez1.PNG",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/juez/juez2.PNG",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    },
+                    {
+                        "img": "assets/img/projects/juez/juez3.PNG",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    }, 
+                    {
+                        "img": "assets/img/projects/juez/juez4.PNG",
+                        "name": "Home de la aplicacion",
+                        "descripcion": "",
+                        "alt": ""
+                    }
+                ]
+        },
+        "url": ""
+    }, 
+    "proy-10" :{
+        "id": "9",
+        "title": "Tracking Chicamocha",
+        "description": "Aplicación móvil para el seguimiento de los atletas por parte de los usuarios",
+        "activities": [
+            {
+                "name": "Definicion de la Arquitectura de la aplicación"
+            }, 
+            {
+                "name": "Conexión con sockets"
+            }, 
+            {
+                "name": "Construccion de la solución"
+            } 
+        ],
+        "resumen": "La aplicación permite conocer información de los atletas durante la carrera, los usuarios pueden seguir a su atleta favoritos, conocer su ubicacion exacta asi como la fecha y hora en la cual paso por determinado punto de control",
+        "methodology": "SCRUM",
+        "status": "No activo",
+        "type": "Privado",
+        "date": "2018",
+        "role": "Analista y Desarrollador",
+        "imgs": {
+            "principal": "assets/img/projects/follow/cover.PNG",
+                    "cover": "assets/img/projects/follow/principal.PNG",
+                    "others": [
+                        {
+                            "img": "assets/img/projects/follow/follow1.PNG",
+                            "name": "Home de la aplicacion",
+                            "descripcion": "",
+                            "alt": ""
+                        },
+                        {
+                            "img": "assets/img/projects/follow/follow2.PNG",
+                            "name": "Home de la aplicacion",
+                            "descripcion": "",
+                            "alt": ""
+                        },
+                        {
+                            "img": "assets/img/projects/follow/follow3.PNG",
+                            "name": "Home de la aplicacion",
+                            "descripcion": "",
+                            "alt": ""
+                        }, 
+                        {
+                            "img": "assets/img/projects/follow/follow4.PNG",
+                            "name": "Home de la aplicacion",
+                            "descripcion": "",
+                            "alt": ""
+                        },
+                        {
+                            "img": "assets/img/projects/follow/follow5.PNG",
+                            "name": "Home de la aplicacion",
+                            "descripcion": "",
+                            "alt": ""
+                        }
+                    ]
+        },
+        "url": ""
+    }  
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "proy-4",
+        "class": "elea",
+        "area": ".elea",
+        "name": "nemobile E-Learning",
+        "property": "nemobile",
+        "company": "nemobile",
+        "cover": "assets/img/projects/default.jpeg"
+    },
+    {
+        "id": "proy-2",
+        "class": "elea",
+        "area": ".elea",
+        "name": "Virtual The Biz Nation",
+        "property": "The Biz Nation",
+        "company": "Kinetics",
+        "cover": "assets/img/projects/default.jpeg"
+    },
+    {
+        "id": "proy-8",
+        "class": "othe",
+        "area": ".other",
+        "name": "Chicamocha",
+        "property": "Chicamocha cayon rice",
+        "company": "Freelance",
+        "cover": "assets/img/projects/default.jpeg"
+    },
+    {
+        "id": "proy-3",
+        "class": "elea",
+        "area": ".elea",
+        "name": "Instructor The Biz Nation",
+        "property": "The Biz Nation",
+        "company": "Kinetics",
+        "cover": "assets/img/projects/default.jpeg"
+    },
+    {
+        "id": "proy-1",
+        "class": "othe",
+        "area": ".other",
+        "name": "Convenios UNET",
+        "property": "UNET",
+        "company": "UNET",
+        "cover": "assets/img/projects/default.jpeg"
+    },
+    {
+        "id": "proy-9",
+        "class": "othe",
+        "area": ".other",
+        "name": "Juez Chicamocha",
+        "property": "Chicamocha cayon rice",
+        "company": "Freelance",
+        "cover": "assets/img/projects/default.jpeg"
+    },
+    {
+        "id": "proy-10",
+        "class": "othe",
+        "area": ".other",
+        "name": "Tracking Chicamocha",
+        "property": "Chicamocha cayon rice",
+        "company": "Freelance",
+        "cover": "assets/img/projects/default.jpeg"
+    },
+    {
+        "id": "proy-5",
+        "class": "tele",
+        "area": ".tele",
+        "name": "Extenet Monitoring",
+        "property": "Extenet",
+        "company": "Kinetics",
+        "cover": "assets/img/projects/default.jpeg"
+    },
+    {
+        "id": "proy-6",
+        "class": "real",
+        "area": ".real",
+        "name": "Real Estate REM",
+        "property": "Sky Group",
+        "company": "Grupo Nepuntobiz",
+        "cover": "assets/img/projects/default.jpeg"
+    },
+    {
+        "id": "proy-7",
+        "class": "real",
+        "area": ".real",
+        "name": "Real Estate client",
+        "property": "Grupo Nepuntobiz",
+        "company": "Grupo Nepuntobiz",
+        "cover": "assets/img/projects/default.jpeg"
+    }
+]
