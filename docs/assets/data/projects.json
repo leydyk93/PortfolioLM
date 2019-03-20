@@ -88,5 +88,14 @@
         "property": "Grupo Nepuntobiz",
         "company": "Grupo Nepuntobiz",
         "cover": "assets/img/projects/default.jpeg"
+    }, 
+    {
+        "id": "proy-11",
+        "class": "othe",
+        "area": ".other",
+        "name": "API E-commerce cafeteria",
+        "property": "Leydy Moreno",
+        "company": "Udemy",
+        "cover": "assets/img/projects/default.jpeg"
     }
 ]
