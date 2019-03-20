@@ -1,59 +1,38 @@
 {
-    "id": "9",
-    "title": "Tracking Chicamocha",
-    "description": "Aplicación móvil para el seguimiento de los atletas por parte de los usuarios",
-    "activities": [
-        {
-            "name": "Definicion de la Arquitectura de la aplicación"
-        }, 
-        {
-            "name": "Conexión con sockets"
-        }, 
-        {
-            "name": "Construccion de la solución"
-        } 
-    ],
-    "resumen": "La aplicación permite conocer información de los atletas durante la carrera, los usuarios pueden seguir a su atleta favoritos, conocer su ubicacion exacta asi como la fecha y hora en la cual paso por determinado punto de control",
-    "methodology": "SCRUM",
-    "status": "No activo",
-    "type": "Privado",
-    "date": "2018",
-    "role": "Analista y Desarrollador",
-    "imgs": {
-                "principal": "assets/img/projects/large-default.jpeg",
-                "cover": "assets/img/projects/large-default.jpeg",
-                "others": [
-                    {
-                        "img": "assets/img/projects/large-default.jpeg",
-                        "name": "Home de la aplicacion",
-                        "descripcion": "",
-                        "alt": ""
-                    },
-                    {
-                        "img": "assets/img/projects/large-default.jpeg",
-                        "name": "Home de la aplicacion",
-                        "descripcion": "",
-                        "alt": ""
-                    },
-                    {
-                        "img": "assets/img/projects/large-default.jpeg",
-                        "name": "Home de la aplicacion",
-                        "descripcion": "",
-                        "alt": ""
-                    }, 
-                    {
-                        "img": "assets/img/projects/large-default.jpeg",
-                        "name": "Home de la aplicacion",
-                        "descripcion": "",
-                        "alt": ""
-                    },
-                    {
-                        "img": "assets/img/projects/large-default.jpeg",
-                        "name": "Home de la aplicacion",
-                        "descripcion": "",
-                        "alt": ""
-                    }
-                ]
+    "activities" : [
+     {
+      "name" : "Configuaración del servidor"
     },
-    "url": ""
-}  
+    {
+        "name" : "Definición e implementacion de eventos .emit y .on"
+    },
+    {
+      "name" : "Habilitar mensajes uno a uno, entre grupos y a todos los miembros de un grupo a través de broadcast"
+    },
+    {
+        "name" : "Construcción de aplicacion a nivel de frontEnd Cliente"
+    }
+   ],
+    "date" : "2019",
+    "description" : "Aplicación para el itercambio de mensajes entre personas y grupos",
+    "id" : "12",
+    "imgs" : {
+      "cover" : "",
+      "others" : [ {
+        "alt" : "",
+        "descripcion" : "",
+        "img" : "dfsdfasdfasdf",
+        "name" : ""
+      } ],
+      "principal" : ""
+    },
+    "methodology" : "SCRUM",
+    "resumen" : "Este proyecto consiste en un chat, el mismo fue construido utilizando nodejs, sockets.io y express, la solucion comprende tanto la creación del servidor como del cliente los mensajes se pueden enviar uno a uno, entre grupos y a todos los usuarios que pertenezcan al mismo grupo a traves de broadcast. La idea inicial de este proyecto corresponde a Fernando Herrera",
+    "role" : "Desarrollador",
+    "status" : "Activo",
+    "title" : "Chat con Nodejs",
+    "type" : "Privado",
+    "url": "",
+    "documentation" : ""
+  }
+  

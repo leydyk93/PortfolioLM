@@ -1,101 +1,110 @@
-[
-    {
-        "id": "proy-4",
-        "class": "elea",
-        "area": ".elea",
-        "name": "nemobile E-Learning",
-        "property": "nemobile",
-        "company": "nemobile",
-        "cover": "assets/img/projects/default.jpeg"
-    },
-    {
-        "id": "proy-2",
-        "class": "elea",
-        "area": ".elea",
-        "name": "Virtual The Biz Nation",
-        "property": "The Biz Nation",
-        "company": "Kinetics",
-        "cover": "assets/img/projects/default.jpeg"
-    },
-    {
-        "id": "proy-8",
-        "class": "othe",
-        "area": ".other",
-        "name": "Chicamocha",
-        "property": "Chicamocha cayon rice",
-        "company": "Freelance",
-        "cover": "assets/img/projects/default.jpeg"
-    },
-    {
-        "id": "proy-3",
-        "class": "elea",
-        "area": ".elea",
-        "name": "Instructor The Biz Nation",
-        "property": "The Biz Nation",
-        "company": "Kinetics",
-        "cover": "assets/img/projects/default.jpeg"
-    },
-    {
-        "id": "proy-1",
-        "class": "othe",
-        "area": ".other",
-        "name": "Convenios UNET",
-        "property": "UNET",
-        "company": "UNET",
-        "cover": "assets/img/projects/default.jpeg"
-    },
-    {
-        "id": "proy-9",
-        "class": "othe",
-        "area": ".other",
-        "name": "Juez Chicamocha",
-        "property": "Chicamocha cayon rice",
-        "company": "Freelance",
-        "cover": "assets/img/projects/default.jpeg"
-    },
-    {
-        "id": "proy-10",
-        "class": "othe",
-        "area": ".other",
-        "name": "Tracking Chicamocha",
-        "property": "Chicamocha cayon rice",
-        "company": "Freelance",
-        "cover": "assets/img/projects/default.jpeg"
-    },
-    {
-        "id": "proy-5",
-        "class": "tele",
-        "area": ".tele",
-        "name": "Extenet Monitoring",
-        "property": "Extenet",
-        "company": "Kinetics",
-        "cover": "assets/img/projects/default.jpeg"
-    },
-    {
-        "id": "proy-6",
-        "class": "real",
-        "area": ".real",
-        "name": "Real Estate REM",
-        "property": "Sky Group",
-        "company": "Grupo Nepuntobiz",
-        "cover": "assets/img/projects/default.jpeg"
-    },
-    {
-        "id": "proy-7",
-        "class": "real",
-        "area": ".real",
-        "name": "Real Estate client",
-        "property": "Grupo Nepuntobiz",
-        "company": "Grupo Nepuntobiz",
-        "cover": "assets/img/projects/default.jpeg"
-    }, 
-    {
-        "id": "proy-11",
-        "class": "othe",
-        "area": ".other",
-        "name": "API E-commerce cafeteria",
-        "property": "Leydy Moreno",
-        "company": "Udemy",
-        "cover": "assets/img/projects/default.jpeg"
-    }
-]
+[ {
+    "area" : ".elea",
+    "class" : "elea 2018 2019",
+    "company" : "nemobile",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/img%2Fnemobile.jpeg?alt=media&token=c98c1e14-1ef1-4723-98b1-2887869615b0",
+    "id" : "proy-4",
+    "name" : "nemobile E-Learning",
+    "property" : "nemobile"
+  }, {
+    "area" : ".elea",
+    "class" : "elea 2017",
+    "company" : "Kinetics",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/img%2Fvirtual.jpeg?alt=media&token=83e940ea-46cb-4728-9ff7-fbe28c6e39bd",
+    "id" : "proy-2",
+    "name" : "Virtual The Biz Nation",
+    "property" : "The Biz Nation"
+  },
+  {
+    "area" : ".other",
+    "class" : "othe 2019 reci",
+    "company" : "Udemy",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/img%2Ftickets.jpeg?alt=media&token=550872cf-8c05-4ff9-bf2d-cf7cd087445e",
+    "id" : "proy-12",
+    "name" : "Gestion de Tickets (Cola)",
+    "property" : "Leydy Moreno"
+  },
+  {
+    "area" : ".elea",
+    "class" : "elea 2017 2018",
+    "company" : "Kinetics",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/img%2Finstructor.jpeg?alt=media&token=dbe7f524-d1fe-4477-a780-7d57db25e622",
+    "id" : "proy-3",
+    "name" : "Instructor The Biz Nation",
+    "property" : "The Biz Nation"
+  }, {
+    "area" : ".other",
+    "class" : "othe 2015 2016",
+    "company" : "UNET",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/img%2Funet.jpeg?alt=media&token=d2eccea0-07af-4916-bfb5-dc7a615cbe0c",
+    "id" : "proy-1",
+    "name" : "Convenios UNET",
+    "property" : "UNET"
+  }, {
+    "area" : ".other",
+    "class" : "othe 2018",
+    "company" : "Freelance",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/img%2Fjuez.jpeg?alt=media&token=9ecea281-859a-466a-80a8-838870a25a75",
+    "id" : "proy-9",
+    "name" : "Juez Chicamocha",
+    "property" : "Chicamocha cayon rice"
+  }, {
+    "area" : ".other",
+    "class" : "othe 2018 2019",
+    "company" : "Freelance",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/img%2Ffollow.jpeg?alt=media&token=74b68c27-3a58-40ca-94f0-6500ce7e3560",
+    "id" : "proy-10",
+    "name" : "Tracking Chicamocha",
+    "property" : "Chicamocha cayon rice"
+  }, {
+    "area" : ".other",
+    "class" : "othe 2018 2019",
+    "company" : "Freelance",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/img%2Fchicamocha.jpeg?alt=media&token=d85edc49-a1e0-43c1-98ab-b0e5660bf498",
+    "id" : "proy-8",
+    "name" : "Chicamocha",
+    "property" : "Chicamocha cayon rice"
+  }, {
+    "area" : ".real",
+    "class" : "real 2018",
+    "company" : "Grupo Nepuntobiz",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/img%2FREM.jpeg?alt=media&token=093a1315-0e2c-49e1-a6c8-b823f5014ecf",
+    "id" : "proy-6",
+    "name" : "Real Estate REM",
+    "property" : "Sky Group"
+  }, {
+    "area" : ".real",
+    "class" : "real 2017",
+    "company" : "Grupo Nepuntobiz",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/img%2FrealEstate.jpeg?alt=media&token=d3d03d45-2bcc-4fb2-9d92-8a4cbb421a8e",
+    "id" : "proy-7",
+    "name" : "Real Estate client",
+    "property" : "Grupo Nepuntobiz"
+  }, {
+    "area" : ".other",
+    "class" : "othe 2019 reci",
+    "company" : "Udemy",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/projects%2FCafeteriaAPI%2FAPI.jpeg?alt=media&token=2f1251de-09b8-4500-8806-cf59fc5887b4",
+    "id" : "proy-11",
+    "name" : "API E-commerce cafeteria",
+    "property" : "Leydy Moreno"
+  },
+  {
+    "area" : ".tele",
+    "class" : "tele 2018",
+    "company" : "Kinetics",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/img%2Fextenet.jpeg?alt=media&token=91c4be05-c652-4af4-850e-8894ce30c17c",
+    "id" : "proy-5",
+    "name" : "Extenet Monitoring",
+    "property" : "Extenet"
+  },
+  {
+    "area" : ".other",
+    "class" : "othe 2019 reci",
+    "company" : "Udemy",
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/myportafolio-6997b.appspot.com/o/img%2Fchat.jpeg?alt=media&token=eeb691a7-5103-48af-b4f4-3d6f9c8f44de",
+    "id" : "proy-13",
+    "name" : "Chat Nodejs",
+    "property" : "Leydy Moreno"
+  } ]
+  

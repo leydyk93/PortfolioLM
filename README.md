@@ -4,6 +4,5 @@ Es una pequeña aplicación construida con Angular que contiene los proyectos en
 
 El repositorio solo contiene la versión ya construida de la aplicación 
 
-El resultado lo puedes visualizar a traves del siguiente enlace [Portafolio Leydy Moreno](https://leydyk93.github.io/PortfolioLM/#/pages/projects)
-
+El resultado se visualizar a través del siguiente enlace [Portafolio Leydy Moreno](https://leydyk93.github.io/PortfolioLM/#/pages/projects)
 
