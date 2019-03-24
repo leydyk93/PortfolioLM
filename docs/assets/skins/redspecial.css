@@ -65,53 +65,6 @@ ul.top-link li a:hover,
 .panel-group .panel .panel-heading .panel-title a:hover,
 .panel-group .panel .panel-heading .panel-title a:focus,
 .panel-group .panel .panel-heading .panel-title a:active,
-nav.navbar.navbar-inverse.bootsnav .attr-nav > ul > li > a:hover,
-nav.navbar.bootsnav ul.nav > li > a:hover,
-nav.navbar.bootsnav ul.nav > li > a:focus,
-nav.navbar.bootsnav ul.nav > li > a:active,
-nav.navbar.bootsnav ul.nav > li.active > a,
-nav.navbar.bootsnav ul.nav > li.active > a:hover,
-nav.navbar.bootsnav ul.nav > li.active > a:focus,
-nav.navbar.bootsnav ul.nav > li.active > a:active,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li > a:hover,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li > a:focus,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li > a:active,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li.active > a,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li.active > a:hover,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li.active > a:focus,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li.active > a:active,
-nav.navbar-sidebar ul.nav li.dropdown.on > a,
-nav.navbar-sidebar .dropdown .megamenu-content .col-menu.on .title,
-nav.navbar-sidebar ul.nav li.dropdown ul.dropdown-menu li a:hover,
-nav.navbar ul.nav li.dropdown.on > a,
-nav.navbar.navbar-inverse ul.nav li.dropdown.on > a,
-nav.navbar.navbar-default.navbar-fixed.no-background ul.nav li.dropdown.on > a,
-nav.navbar-sidebar ul.nav li.dropdown.on ul.dropdown-menu li.dropdown.on > a,
-nav.navbar .dropdown .megamenu-content .col-menu.on .title,
-nav.navbar.bootsnav ul.nav ul.dropdown-menu > li > a:hover,
-nav.navbar.bootsnav ul.nav ul.dropdown-menu > li > a:focus,
-nav.navbar.bootsnav ul.nav ul.dropdown-menu > li > a:active,
-nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover,
-nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:focus,
-nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:active,
-nav.navbar.navbar-inverse.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:hover,
-nav.navbar.navbar-inverse.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:focus,
-nav.navbar.navbar-inverse.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:active,
-nav.navbar.navbar-inverse.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover,
-nav.navbar.navbar-inverse.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:focus,
-nav.navbar.navbar-inverse.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:active,
-nav.navbar.navbar-default.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:hover,
-nav.navbar.navbar-default.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:focus,
-nav.navbar.navbar-default.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:active,
-nav.navbar.navbar-default.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover,
-nav.navbar.navbar-default.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:focus,
-nav.navbar.navbar-default.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:active,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:hover,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:focus,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:active,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:focus,
-nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:active,
 #offfcavas .menu-wrap .nav.navbar-nav li a:hover,
 #offfcavas .menu-wrap .nav.navbar-nav li a:active,
 #offfcavas .menu-wrap .nav.navbar-nav li a:focus,
@@ -172,12 +125,70 @@ nav.bootsnav.navbar-full .navbar-collapse ul.nav > li > a:hover,
 .navbar.navbar-default.no-background.navbar-full.bootsnav li.close-full-menu > a,
 .close-button:hover,
 .menu-bar-wrapp .socila-icon:hover{
-	color:#2cc35e;
+	color:#dc262a;
+}
+
+.panel-group .panel .panel-heading .panel-title a:active,
+nav.navbar.navbar-inverse.bootsnav .attr-nav > ul > li > a:hover,
+nav.navbar.bootsnav ul.nav > li > a:hover,
+nav.navbar.bootsnav ul.nav > li > a:focus,
+nav.navbar.bootsnav ul.nav > li > a:active,
+nav.navbar.bootsnav ul.nav > li.active > a,
+nav.navbar.bootsnav ul.nav > li.active > a:hover,
+nav.navbar.bootsnav ul.nav > li.active > a:focus,
+nav.navbar.bootsnav ul.nav > li.active > a:active,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li > a:hover,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li > a:focus,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li > a:active,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li.active > a,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li.active > a:hover,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li.active > a:focus,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav > li.active > a:active,
+nav.navbar-sidebar ul.nav li.dropdown.on > a,
+nav.navbar-sidebar .dropdown .megamenu-content .col-menu.on .title,
+nav.navbar-sidebar ul.nav li.dropdown ul.dropdown-menu li a:hover,
+nav.navbar ul.nav li.dropdown.on > a,
+nav.navbar.navbar-inverse ul.nav li.dropdown.on > a,
+nav.navbar.navbar-default.navbar-fixed.no-background ul.nav li.dropdown.on > a,
+nav.navbar-sidebar ul.nav li.dropdown.on ul.dropdown-menu li.dropdown.on > a,
+nav.navbar .dropdown .megamenu-content .col-menu.on .title,
+nav.navbar.bootsnav ul.nav ul.dropdown-menu > li > a:hover,
+nav.navbar.bootsnav ul.nav ul.dropdown-menu > li > a:focus,
+nav.navbar.bootsnav ul.nav ul.dropdown-menu > li > a:active,
+nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover,
+nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:focus,
+nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:active,
+nav.navbar.navbar-inverse.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:hover,
+nav.navbar.navbar-inverse.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:focus,
+nav.navbar.navbar-inverse.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:active,
+nav.navbar.navbar-inverse.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover,
+nav.navbar.navbar-inverse.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:focus,
+nav.navbar.navbar-inverse.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:active,
+nav.navbar.navbar-default.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:hover,
+nav.navbar.navbar-default.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:focus,
+nav.navbar.navbar-default.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:active,
+nav.navbar.navbar-default.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover,
+nav.navbar.navbar-default.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:focus,
+nav.navbar.navbar-default.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:active,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:hover,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:focus,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a:active,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:focus,
+nav.navbar.navbar-default.navbar-fixed.no-background.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:active, 
+ul.cart-list > li > h6 > a:hover,
+nav.navbar.navbar-default ul.cart-list > li > h6 > a:hover,
+nav.navbar.navbar-default.navbar-fixed.no-background ul.cart-list > li > h6 > a:hover,
+nav.navbar.navbar-inverse ul.cart-list > li > h6 > a:hover,
+nav.navbar.bootsnav .navbar-toggle:hover,
+nav.navbar.bootsnav .navbar-toggle:focus,
+nav.navbar.bootsnav .navbar-toggle:active {
+    color:#616a73;
 }
 
 .icon-circle.icon-bordered.fa-primary:hover,
 .icon-square.icon-bordered.fa-primary:hover{
-	color:#28a752;
+	color:#c12327;
 }
 
 /*
@@ -300,11 +311,11 @@ nav.navbar.bootsnav .share ul > li > a:hover,
 .title-head:after,
 .tab-pane-home .social-network a:hover .icon-circle,
 .menu-bar-wrapp .menu-bar{
-	background-color:#2cc35e;
+	background-color:#dc262a;
 }
 
 .thumbnail .img-wrapper h5{
-	background-color:rgba(44, 195, 94, 0.8);
+	background-color:rgba(93, 179, 245, 0.8);
 }
 
 nav.navbar.navbar-inverse.bootsnav ul.cart-list > li.total > .btn:hover,
@@ -346,7 +357,7 @@ ul.top-link li a.signup:active,
 .irs-slider.state_hover,
 .irs-slider:hover,
 .menu-bar-wrapp .menu-bar:hover{
-	background-color:#28a752;
+	background-color:#c12327;
 }
 
 /*
@@ -401,11 +412,11 @@ ol.process-line > li:hover > .icons > .fa,
 .grider a.active,
 .flex-control-thumbs .flex-active,
 .flex-control-thumbs img:hover{
-	border-color:#2cc35e;
+	border-color:#dc262a;
 }
 
 .process-box.primary-bg:after{
-	border-left-color:#2cc35e;
+	border-left-color:#dc262a;
 }
 
 nav.navbar.bootsnav li.dropdown ul.dropdown-menu,
@@ -413,11 +424,11 @@ nav.navbar.navbar-inverse.bootsnav li.dropdown ul.dropdown-menu,
 nav.navbar.navbar-default.bootsnav li.dropdown ul.dropdown-menu,
 .cbp-border-filter .cbp-filter-counter:after,
 .cbp-l-filters-text .cbp-filter-counter:after{
-	border-top-color:#2cc35e;
+	border-top-color:#dc262a;
 }
 
 .thumbnail .img-wrapper h5:after{
-	border-bottom-color:rgba(44, 195, 94, 0.8);
+	border-bottom-color:rgba(93, 179, 245, 0.8);
 }
 
 nav.navbar.navbar-inverse.bootsnav ul.cart-list > li.total > .btn:hover,
@@ -442,7 +453,7 @@ nav.navbar.navbar-inverse.bootsnav ul.cart-list > li.total > .btn:active,
 .btn-primary:active.focus,
 .btn-primary.active.focus,
 .open > .dropdown-toggle.btn-primary.focus{
-	border-color:#28a752;
+	border-color:#c12327;
 }
 
 /*

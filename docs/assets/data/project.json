@@ -17,14 +17,14 @@
     "description" : "Aplicación para el itercambio de mensajes entre personas y grupos",
     "id" : "12",
     "imgs" : {
-      "cover" : "",
+      "cover" : "assets/img/projects/large-default.jpeg",
       "others" : [ {
         "alt" : "",
         "descripcion" : "",
-        "img" : "dfsdfasdfasdf",
+        "img" : "assets/img/projects/large-default.jpeg",
         "name" : ""
       } ],
-      "principal" : ""
+      "principal" : "assets/img/projects/large-default.jpeg"
     },
     "methodology" : "SCRUM",
     "resumen" : "Este proyecto consiste en un chat, el mismo fue construido utilizando nodejs, sockets.io y express, la solucion comprende tanto la creación del servidor como del cliente los mensajes se pueden enviar uno a uno, entre grupos y a todos los usuarios que pertenezcan al mismo grupo a traves de broadcast. La idea inicial de este proyecto corresponde a Fernando Herrera",

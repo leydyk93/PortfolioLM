@@ -1714,7 +1714,7 @@ ul.top-link li a.signup:active{
     /* Tabs
     =================================*/ 
     nav.navbar.bootsnav .megamenu-content.tabbed{
-        padding-left: 0 !mportant;
+        padding-left: 0 !important;
     }
     
     nav.navbar.bootsnav .tabbed > li{
@@ -1998,7 +1998,13 @@ Inverse skins
 =========================== */
 nav.navbar.navbar-inverse.bootsnav,
 nav.navbar.navbar-inverse.bootsnav.brand-center.navbar-transparent:hover{
-	background-color:#28313a;
+    
+background: -moz-linear-gradient(45deg, rgba(245,48,54,1) 1%, rgba(187,48,55,1) 28%, rgba(133,48,56,1) 53%, rgba(40,49,58,1) 97%, rgba(40,49,58,1) 100%); /* ff3.6+ */
+/* background: -webkit-gradient(linear, left bottom, right top, color-stop(1%, rgba(245,48,54,1)), color-stop(28%, rgba(187,48,55,1)), color-stop(53%, rgba(133,48,56,1)), color-stop(97%, rgba(40,49,58,1)), color-stop(100%, rgba(40,49,58,1))); safari4+,chrome */
+background: -webkit-linear-gradient(45deg, rgba(245,48,54,1) 1%, rgba(187,48,55,1) 28%, rgba(133,48,56,1) 53%, rgba(40,49,58,1) 97%, rgba(40,49,58,1) 100%); /* safari5.1+,chrome10+ */
+background: -o-linear-gradient(45deg, rgba(245,48,54,1) 1%, rgba(187,48,55,1) 28%, rgba(133,48,56,1) 53%, rgba(40,49,58,1) 97%, rgba(40,49,58,1) 100%); /* opera 11.10+ */
+background: -ms-linear-gradient(45deg, rgba(245,48,54,1) 1%, rgba(187,48,55,1) 28%, rgba(133,48,56,1) 53%, rgba(40,49,58,1) 97%, rgba(40,49,58,1) 100%); /* ie10+ */
+background: linear-gradient(45deg, rgba(245,48,54,1) 1%, rgba(187,48,55,1) 28%, rgba(133,48,56,1) 53%, rgba(40,49,58,1) 97%, rgba(40,49,58,1) 100%); /* w3c */
 }
 
 nav.navbar.navbar-inverse .attr-nav > ul > li > a,
